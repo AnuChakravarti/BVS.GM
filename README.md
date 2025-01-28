@@ -1,5 +1,4 @@
 # BVS.GM
----
 
 This repository contains the R code implementation for the **BVS.GM algorithm** described in the paper:  
 **Bayesian Variable Selection and Sparse Estimation for High-Dimensional Graphical Models**.  
