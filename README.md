@@ -7,4 +7,4 @@ You can find the paper on arXiv: [https://arxiv.org/abs/2409.16276](https://arxi
 
 ## Main Functions
 The main functions for implementing the BVS.GM algorithm are included in the file:  
-**`PN3 Code Efficient.R`**
+**`EM Algorithm for BVS_GM.R`**
